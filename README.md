@@ -6,4 +6,7 @@
 
 ``` ./run.sh ```
 
+![Screenshot of HTML page](https://github.com/aerth/brokenscreen/blob/master/brokenscreenshot.png?raw=true)
+
+Opens screenshot of android phone in browser and reloads every 1 second
 
